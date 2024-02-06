@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "linebot-salonapp-notify"
+name = "flask-line-bot-heroku"
 version = "0.1.0"
 description = ""
-authors = ["perrylu21 <perrylu21@gmail.com>"]
+authors = ["hsuanchi <a0025071@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
